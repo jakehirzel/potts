@@ -15,6 +15,7 @@
 		230206251E8D641700A2F45B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 230206241E8D641700A2F45B /* Assets.xcassets */; };
 		230206281E8D641700A2F45B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 230206261E8D641700A2F45B /* LaunchScreen.storyboard */; };
 		230206331E8D641800A2F45B /* PottsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230206321E8D641800A2F45B /* PottsTests.swift */; };
+		2302063E1E8D682C00A2F45B /* License.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2302063D1E8D682C00A2F45B /* License.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		2302062E1E8D641800A2F45B /* PottsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PottsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		230206321E8D641800A2F45B /* PottsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PottsTests.swift; sourceTree = "<group>"; };
 		230206341E8D641800A2F45B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2302063D1E8D682C00A2F45B /* License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = License.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				230206181E8D641700A2F45B /* Potts */,
 				230206311E8D641800A2F45B /* PottsTests */,
 				230206171E8D641700A2F45B /* Products */,
+				2302063D1E8D682C00A2F45B /* License.txt */,
 			);
 			sourceTree = "<group>";
 		};
@@ -187,6 +190,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2302063E1E8D682C00A2F45B /* License.txt in Resources */,
 				230206281E8D641700A2F45B /* LaunchScreen.storyboard in Resources */,
 				230206251E8D641700A2F45B /* Assets.xcassets in Resources */,
 				230206231E8D641700A2F45B /* Main.storyboard in Resources */,
